@@ -1,0 +1,54 @@
+# ── Data (not redistributed — see README for how to obtain) ──────────────────
+dataset/
+features/
+features.zip
+*.npy
+*.npz
+*.pt
+*.pkl
+
+# ── Environments ─────────────────────────────────────────────────────────────
+ransmap_env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# ── Notebook cruft ───────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Third-party papers (copyright — not redistributed) ───────────────────────
+Ransmap.pdf
+2106.14112v1.pdf
+
+# ── Cluster / job artefacts ──────────────────────────────────────────────────
+slurm-*.out
+*.log
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# LibreOffice lock files
+.~lock.*#
+
+# ── Internal / private docs (not for public release) ──────────────────────────
+Final_Report_ME_v2.docx
+HANDOFF.md
+Handoff_Pratik.md
+Presentation_Speaker_Notes.md
+Professor_Meeting_Brief.md
+Project.md
+Project_Complete_Summary.md
+RanSMAP_Complete_Project_Record.md
+RanSMAP_Directed_Study_Report.docx
+RanSMAP_Final_Presentation.pptx
+RanSMAP_Preliminary_Report.docx
+RanSMAP_Project_Record.docx
+RanSMAP_Results_Summary.docx
+Report_Drafts_WIP.md
+Results.md
+Transfer.md
+Transfer2.md
+transfer_code.md
